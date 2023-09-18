@@ -7,12 +7,13 @@ body {
   background-color: #FCFBF4;
 }
 
-.firstname {
+#firstname {
   border: 3px solid;
+  display: block;
   
 }
 
-.firstname:hover{
+#firstname:hover{
   border: 5px groove #40E0D0;
   color: #ff7a59
   background-color: #fff;
