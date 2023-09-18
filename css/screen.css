@@ -1,21 +1,40 @@
 body {
   font-family: Times New Roman;
-  font-sze: 15px;
+  font-size: 15px;
 }
 
 body {
   background-color: #FCFBF4;
 }
 
-#firstName {
+#form{
   border: 3px solid;
   display: block;
-  
+  background-color: #27445c;
+  padding: 5px;
 }
 
-#firstName:hover{
-  border: 5px groove #40E0D0;
-  color: #ff7a59
-  background-color: #fff;
-  
+#firstName label:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+}
+
+#lastName label:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+}
+
+#email label:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+}
+
+#phone label:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+}
+
+#DOB label:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
 }
