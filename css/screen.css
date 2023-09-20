@@ -14,14 +14,15 @@ body {
   background: #27445c;
   padding: 20px;
   width: 1000px;
-  height: 275px;
+  height: 300px;
   margin-left: auto;
   margin-right: auto;
 }
 
 h1 {
   font-size: 40px;
-  
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 label{
   font-size: 25px;
