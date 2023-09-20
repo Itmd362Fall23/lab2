@@ -81,3 +81,7 @@ label{
   text-align: center;
   
 }
+
+#submitButton {
+  padding: 5px;
+}
